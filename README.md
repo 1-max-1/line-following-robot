@@ -2,8 +2,10 @@
 
 <img src="https://github.com/user-attachments/assets/760177e0-df84-450d-884f-e417c7630840" width="70%">
 
-This robot was constructed and raced in an annual competition for ENMT221. We designed all aspects of the robot including the PCB. The robot did well and achieved 2nd place.
-The track consists of a black line on a white background. The robot must succesfully follow the line all the way around, and the time taken determines the ranking.
+This robot was constructed and raced in an annual team competition for ENMT221. We designed all aspects of the robot including the PCB. The race track consists of a black line on a white background. The robot must successfully follow the line all the way around, and the time taken determines the ranking.
+
+In the weeks before the competition, we were quite busy with other projects, and we did not make much progress with the robot. We made a big push the night before the competition, fixing code, re-soldering connections and improving the mechanical design several times. By the time of the competition, we had managed to bring the robot to a fully functional state. The robot achieved second place overall, missing out on the first-place spot by only 0.8 seconds.
+
 
 *The design files are not currently public as this is a recurring course assignment.*
 
